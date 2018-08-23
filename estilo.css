@@ -1,6 +1,10 @@
 body {
 	background-color: #e7e1d6;
+	font-family: 'Sawarabi Gothic', sans-serif;
+	font-size: 1.2em;
 }
+
+/* Mapas 1 */
 .caixaa {
 	margin-left: auto;
 	margin-right: auto;
@@ -28,3 +32,20 @@ input[type=checkbox]:checked + label {
 	text-align: center;
 }
 
+/* Mapas 2 */
+.caixaMestre {
+	height: 80vh;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.caixaMapa{
+	margin: 0.25%;
+	width: 15.6%;
+	height: 34vh;
+	background-color: #a2e293;
+	text-align: center;
+	padding-top: 1%;
+	float: left;
+}
