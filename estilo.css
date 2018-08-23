@@ -1,0 +1,30 @@
+body {
+	background-color: #e7e1d6;
+}
+.caixaa {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: khaki;
+	width: 300px;
+	height: auto;
+	padding: 10px;
+	font-family: helvetica;
+	line-height: 30px;
+}
+
+#titulo {
+	text-align: center;
+}
+
+input[type=checkbox] + label {
+	color: #000000;
+}
+input[type=checkbox]:checked + label {
+	color: #494344;
+	text-decoration: line-through;
+}
+#small {
+	font-size: 11px;
+	text-align: center;
+}
+
